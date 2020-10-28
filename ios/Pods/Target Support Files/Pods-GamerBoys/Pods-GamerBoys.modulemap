@@ -1,0 +1,6 @@
+module Pods_GamerBoys {
+  umbrella header "Pods-GamerBoys-umbrella.h"
+
+  export *
+  module * { export * }
+}
